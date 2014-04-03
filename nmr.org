@@ -1,0 +1,206 @@
+* <2014-03-29 Sat>
+ - http://dr-kielhorn.eu/nmr/1992ruecker_instrumentelle_pharm_analytik_nmr.djvu (8mb)
+ - http://dr-kielhorn.eu/nmr/1992ruecker_instrumentelle_pharm_analytik_nmr.pdf (50mb)
+ - read 165-173 and 13-6.2.1 COSY on p. 194
+   
+ - 20._Electronic_and_Vibrational_Spectroscopy-QYusY5WqpsE.mp4
+   - oscillation of electron density that comes from mixing orbitals of
+     different energy, mixture of 1s with 2p orbital, feature of time
+     dependent quantum mechanics where the phase of the wave functions
+     changes with a rate proportional to its energy
+     
+ - 21._Functional_Groups_and_Fingerprints_in_IR_Spectroscopy._Precession_of_Magnetic_Nuclei-HClNIQONfic.mp4.
+   - 2050s intro to magnetism 
+   - 2130s precession
+   - 2237s experiment with wheel
+   - 2375s explains why wheel precesses
+   - 2810s rotating frame
+     
+ -  https://www.youtube.com/watch?v=EVJtYJMCN9M 22._Medical_MRI_and_Chemical_NMR-EVJtYJMCN9M.mp4
+   - 1055s uniform field, tune it through, listen on one frequency 
+   - 1122s different signal for protons, not all protons are equivalent
+   - 1153s they are almost exactly the same frequence
+   - when first this was discovered, it was an annoyance -> but it
+     turned out to be gold mine for chemists
+   - 1255s field must be very very uniform 
+   - 1618s explaination why 800MHz is more than 512x better than 100MHz 
+   - 1776s measure integrals of peaks 
+   - 1864s structure proof vs. nmr spectrum (from 1972s), 1975s
+     discussion of nmr measurement
+   - 2100s low res NMR
+   - 2113s high res NMR (very uniform field and spinning sample)
+   - 2150s multipletts
+   - 2340s two sources of fields: 
+     - electrons range: 12ppm (for H)
+     - spin spin splitting (nearby nuclei) 0-30Hz
+   - chemical shift due to orbiting electrons
+     - 2470s explaination of ppm
+     - 2500s tms standard
+       - small, volatile
+       - one peek consisting of 4 CH_3
+       - metal has partial positive charge: more electrons around protons
+       - bigger shielding cancels a bit of the big field
+       - defines zero peak (low chemical shift)
+       - low precession frequency
+     - 2580s carboxylic acid
+       - 2580s way down field (deshielded)
+       - OH is withdrawing electrons
+       - 2670s high chemical shift, high frequency
+     - 2680s .5 .. 2 ppm R-H
+     - 2694s XC-H X= O, Hal, N 
+       - electronegative atoms take electrons from carbon
+       - 2.5 .. 4.5 ppm
+     - 2728s a buffering C in between 
+     - 2740s C=C-H
+       - sp^2 hybridisation pulls electrons to the carbon away from hydrogen  
+       - 6..9 ppm
+     - 2800s aromatic 
+       - still further down 7..8ppm
+     - 2803s aldehyde
+       - still further down 9..10ppm
+     - 2823s R-OH
+       - can be on many different positions depending on concentration and temperature
+       - high temperature -> less hydrogen bonding
+     - 2910s predict acetylen
+       - 2945s it actually comes up right of double bond
+
+ - 23._Diamagnetic_Anisotropy_and_Spin-Spin_Splitting-AlUGlLfmwSc.mp4
+   - repetition until 110s
+   - 130s first show of his arrow visualizer
+   - 240s diamagnetism
+   - 280s two nuclei
+     - magnetic field depends on 1/r^3, if you move away the effect gets smaller
+     - 350s suppose the two nuclei are fixed to each other by bonds and
+       the molecule rotates: you will have to average
+     - 400s explain the averaging
+     - 445s right and left cancel, net down if you average around circle
+     - 520s you actually have to average over sphere and therefore
+       net average is zero
+     - 640s introduction of diamagnetic anisotropy: you have to
+       consider electrons on other nuclei
+     - 700s benzen
+       - current in p orbitals of carbon
+       - field is reinforced. the protons are further down field than
+         one would expect just from there being an sp^2 bond
+       - 800s 4n+2 14 pi electrons
+	 - 850s protons are at 8.5
+	 - 910s methyl groubs at -4
+       - 945s 10 pi electrons
+       - 1015s di-anion 
+	 - molecule loses aromaticity
+	 - CH3 field shifts downfield to 22ppm by 26ppm (dramatic)
+     - 1070s acetylen
+       - 2 p orbitals filled with 4 electrons looks like cylinder
+       - opposite of what happens at benzene
+       - 1180s might be nonsense, doesn't work for 13^C
+   - 1250s spin-spin splitting
+     - local fields due to other nuclei
+     - 1268s advertises chem 220 website for problems
+     - *explains problem 1*
+     - 1395s spin isomers 
+     - 1460s quartet
+     - 1574s pascal's triangle
+     - 1664s ethanol
+       - CH_3 group lowest chemical shift
+       - OH is furthest down field
+	 - 1835s interaction between OH and CH_2 is smaller (5.1Hz)
+           than CH_3 and CH_2 (7.2Hz)
+       - 1900s CH_2 doublett of quartetts
+       - 1930s DMSO solvent peak with one proton
+	 - 1970s spin spin splitting due to deuterium
+	 - there are three ways of putting deuterium
+       - 2030s water peak
+       - 2050s tripletts with 7.2Hz splitting
+	 - 13^C with 1% abundance
+	 - enormous interaction with protons (134Hz)
+       - 2153s mentions slight differences in peak height
+     - 2180s isotropic j coupling between two protons
+       - 2260s the bonds induce the coupling
+       - not spatial proximity
+       - 2450s indirect interaction between two electrons in one
+         orbital
+       - when the electron is on the nucleus tumbling won't average
+	 -> only s orbitals contribute 
+       - 2533s confusing discussion of orbital overlap
+       - 2740s discussion finishes
+       - 2780s identical hydrogens couple 10..20Hz
+       - 2800s 6-8Hz coupling depending on angle 2-13Hz depending on
+         conformation, gauche 7Hz
+	 - 2880s if it is fixed you can measure the angle by measuring J
+  
+
+ - 25._C-13_and_2D_NMR._Electrophilic_Aromatic_Substitution-bUdWIAIdSko.mp4
+   - spin spin splitting
+     - 69s 126Hz due to 13^C-H coupling
+     - 160s hybridisation affects the coupling constant
+       - 3 populations
+       - sp hybridisation (50% s) have highest coupling constants
+       - cyclopropane is somehow special
+     - 300s why don't we see quartetts for CH_4
+       - problem 7
+       - cinnamic acid
+       - 565s discussion what happens if you change magnetic field strength
+       - 612s J stays the same (split of the doublet)
+       - outer peaks are getting very weak
+       - 700s higher order effect
+       - 900s explains first order spectrum
+       - 1120s intensity difference explained
+       - 1180s strong magnetic fields make the spectrum look more like
+         first order
+    - 1250s ethanol in CDCl_3 with acid: OH peak shifts and
+      multiplicity of some peaks changes
+      - 1400s with acid the area under the OH peak on OH is larger
+      - splitting disappears when averaged
+      - 1630s DMSO forms strong hydrogen bonds with ethanol
+      - 1690s IR spectra are acquired faster so you don't see any
+        averaging there
+    - 2350s goes through an example
+      - 2440s think about solvents influence on multipletts
+      - 2730s chiral center his experience as graduate student
+    - 2900s two frequencies to decouple H and 13^C	 
+
+ - 24._Higher-Order_Effects,_Dynamics,_and_the_NMR_Time_Scale-Zh0jvSZ2nPI.mp4
+ - proton decoupling
+   - proton precesses faster than 13^C
+   - 104s you can send 100MHz to make proton precess
+     - depends on power
+   - 144s 13^C spectrum
+     - 180s the carbon peaks that are split have hydrogen on them
+     - patterns change their multiplicity and intensity
+       - 230s when you irradiate the protons you strength the signal
+         of the carbons to which they are coupled nuclear overhauser
+         effect
+	 - p 168 in buch: relaxation durch wechselwirkung mit
+           nachbarkernen. daher kann man durch anregung des
+           nachbarkerns auch energie ins system bringen. fuer messung
+           sollte man molekularen sauerstoff (paramagnetische
+           substanz) entfernen.
+       - you see a peak for each carbon but you can't make
+         quantitative comparisons of carbons any more
+     - 362s artificial sweetener neotame 
+       - proton decoupled
+       - no 13^C-13^C splitting because it is very unlikely
+       - going from left through spectrum:
+	 - 446s down field C=O
+	 - aromatic carbons
+	 - C-X (electronegative)
+         - C-C
+     - 594s correlation with 13^C double labelling
+       - squalene
+       - lanesterol
+       - 650s explains experimental method to label with 13^C
+     - 965s 2D nmr spectrum
+       - two frequencies are used
+       - *spectrum of a protein*
+       - range 6..9ppm where the NH protons show up
+       - you look at one while irradiating the other one, affecting
+         the intensity of the one you are looking at (nuclear
+         overhauser enhancement)
+	 - works through space interaction (if within 0.6 nm)
+       - much less congestion in the spectrum
+       - 1145s first find which NH goes with which R group
+       - then use local distances and knowledge about possible bond lengths
+       - 1240s you can get the 3d structure without a crystal
+   - 1250s correlation in time
+     - i can't follow this there is too much chemistry here
+       
